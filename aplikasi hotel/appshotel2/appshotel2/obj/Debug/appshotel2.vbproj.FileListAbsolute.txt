@@ -1,0 +1,10 @@
+D:\aplikasi hotel\appshotel2\appshotel2\bin\Debug\appshotel2.exe.config
+D:\aplikasi hotel\appshotel2\appshotel2\bin\Debug\appshotel2.exe
+D:\aplikasi hotel\appshotel2\appshotel2\bin\Debug\appshotel2.pdb
+D:\aplikasi hotel\appshotel2\appshotel2\bin\Debug\appshotel2.xml
+D:\aplikasi hotel\appshotel2\appshotel2\obj\Debug\appshotel2.Form1.resources
+D:\aplikasi hotel\appshotel2\appshotel2\obj\Debug\appshotel2.Resources.resources
+D:\aplikasi hotel\appshotel2\appshotel2\obj\Debug\appshotel2.vbproj.GenerateResource.Cache
+D:\aplikasi hotel\appshotel2\appshotel2\obj\Debug\appshotel2.exe
+D:\aplikasi hotel\appshotel2\appshotel2\obj\Debug\appshotel2.xml
+D:\aplikasi hotel\appshotel2\appshotel2\obj\Debug\appshotel2.pdb
